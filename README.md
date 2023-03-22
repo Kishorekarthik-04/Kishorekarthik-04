@@ -25,7 +25,7 @@
 
 - 📄 Know about my experiences [link](link)
 
-- ⚡ Fun fact **I'm not funny**
+- ⚡ Fun fact **My passwords alway contain my year of birth lol**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
