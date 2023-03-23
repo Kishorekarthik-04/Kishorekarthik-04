@@ -15,17 +15,17 @@
 
 - 🤝 I’m looking for help with **Nothing**
 
-- 👨‍💻 All of my projects are available at [link](link)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/Kishorekarthik-04)
 
-- 📝 I regularly write articles on [link](link)
+- 📝 I regularly write articles on [Linkedin](https://www.linkedin.com/in/kishore-karthik-381a9026a/)
 
 - 💬 Ask me about **Python**
 
 - 📫 How to reach me **karthikaviya@proton.me**
 
-- 📄 Know about my experiences [link](link)
+- 📄 Know about my experiences [Portfolio](https://kishorekarthik-04.github.io/)
 
-- ⚡ Fun fact My passwords alway contain my year of birth lol
+- ⚡ Fun fact Im cool :-)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
